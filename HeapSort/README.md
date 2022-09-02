@@ -9,6 +9,7 @@ Includes different unit test which can be built with cmake:
 ```
 
 mkdir build
+cd build
 cmake ../
 make
 
