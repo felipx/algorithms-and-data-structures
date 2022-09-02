@@ -1,7 +1,7 @@
 // Node.cpp
 
 /***********************************************************************************
- * This file is part of HeapSort Algorith                                          *
+ * This file is part of HeapSort Algorithm                                         *
  *                                                                                 *
  * Copyright (C) 2022 felipx                                                       *
  * https://github.com/felipx/                                                      *
