@@ -48,7 +48,7 @@ template <class T> MaxHeap<T>::~MaxHeap()
     {
         Node<T>* n = q.front();
         q.pop();
-        delete(n);
+        delete n;
     }
 }
 
